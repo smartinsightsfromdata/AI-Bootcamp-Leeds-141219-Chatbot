@@ -11,7 +11,7 @@
 
 ## Preparation before workshop:
 * python >=3.7.4
-* Createirtual environment (`python -m venv vrasa` & activate)
+* Create virtual environment (`python -m venv vrasa` & activate)
 * Once activated, install using `pip install rasa-x --extra-index-url https://pypi.rasa.com/simple`
 
 
@@ -25,6 +25,13 @@
 ## Required knowledge / experience
 * Some python & knowledge of dockers can be useful
 * NLP knowledge useful but not strictly necessary (basic info will be imparted during the workshop)
+
+Projects developed during the workshop:
+
+* introductive chatbots
+* RASA masterclass notebooks https://github.com/smartinsightsfromdata/rasa-masterclass
+* mychatbot - complete dockerised project ready for production! https://github.com/smartinsightsfromdata/mychatbot
+
 
 
 ### Please ask any question posting it in the project's issues
