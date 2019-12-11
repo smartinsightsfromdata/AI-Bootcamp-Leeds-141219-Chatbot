@@ -29,7 +29,7 @@
 
 ## Projects introduced & developed during the workshop:
 
-* introductive chatbots
+* entry-level chatbots
 * RASA masterclass notebooks https://github.com/smartinsightsfromdata/rasa-masterclass
 * mychatbot - complete dockerised project ready for production! https://github.com/smartinsightsfromdata/mychatbot
 
